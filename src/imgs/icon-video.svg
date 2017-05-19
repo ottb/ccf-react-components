@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-video</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13.9998 15.2727 0 15.2727 0 -0.0003 13.9998 -0.0003 27.9996 -0.0003 27.9996 15.2727 13.9998 15.2727"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-1" fill="#F08122" cx="22.5" cy="22.5" r="22.5"></circle>
+        <g transform="translate(9.000000, 15.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M20.3636,5.3747 L20.3636,2.5457 C20.3636,1.1407 19.2236,-0.0003 17.8186,-0.0003 L2.5456,-0.0003 C1.1406,-0.0003 -0.0004,1.1407 -0.0004,2.5457 L-0.0004,12.7277 C-0.0004,14.1327 1.1406,15.2727 2.5456,15.2727 L17.8186,15.2727 C19.2236,15.2727 20.3636,14.1327 20.3636,12.7277 L20.3636,9.8977 L27.9996,15.2727 L27.9996,-0.0003 L20.3636,5.3747 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
